@@ -1,0 +1,12 @@
+### 5. Branching in Git
+- Introduction to Branching Concept.
+- Creating Branches
+    - git brach <BRANCH NAME>
+    - git checkout <BR_NAME>
+    - git checkout -b "BR_NAME"
+- Branch Tags
+    - feat/feat-name
+- Merging Branches
+    - Merge
+    - Rebase
+- Stashing

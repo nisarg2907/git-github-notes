@@ -1,0 +1,15 @@
+### 3. Version Controlling with Git
+- Initializing Git Project
+- Adding Files to VCS
+    - git add <FILE_PATH>
+    - git add .
+- Removing Files from VCS
+    - git rm <FILE_PATH>
+- Introduction to Commits
+    - Committing Files
+        - git commit -m "MESSAGE"
+    - Staging Area
+    - Logging Commit History
+        - git log
+        - git log --oneline
+    - Reverting Back

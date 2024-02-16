@@ -1,0 +1,8 @@
+### 1. What is a Version Control System?
+Version control, also known as source control, is tracking and managing software code changes.
+
+Famous VCS:
+
+-  Git (Most Famous)
+- Apache SubVersion
+- Piper (Used by Google)

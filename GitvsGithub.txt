@@ -1,0 +1,9 @@
+### 4. Git VS GitHub
+- What are Git and GitServer
+- Popular Git Servers
+    - GitHub
+    - GitLab
+    - BitBucket
+- Git Remotes
+- Pushing and Pulling in Git
+- Self-Hosted Git Server
